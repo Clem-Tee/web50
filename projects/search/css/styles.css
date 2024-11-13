@@ -1,0 +1,98 @@
+/* Reset some basic styles for cross-browser consistency */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: Arial, sans-serif;
+	background-color: #fff;
+}
+
+.nav {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	display: inline-block;
+	line-height: 24px;
+	vertical-align: middle;
+}
+
+.nav a {
+	margin-left: 20px;
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.87);
+	font-size: 14px;
+	transition: text-decoration 0.3s;
+}
+
+.nav a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	text-align: center;
+}
+
+.search-form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.search-bar {
+	width: 500px;
+	height: 44px;
+	margin-bottom: 10px;
+	padding: 0 14px;
+	border: 1px solid #dfe1e5;
+	border-radius: 24px;
+	box-shadow: none;
+	font-size: 16px;
+	outline: none;
+	transition: box-shadow 0.3s, border-color 0.3s;
+}
+
+.search-bar:focus {
+	box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+	border-color: rgba(223, 225, 229, 0);
+}
+
+.buttons {
+	display: flex;
+	gap: 10px;
+}
+
+.search-button {
+	padding: 0 16px; /* Add padding to left and right */
+	border-radius: 4px;
+	border: 1px solid #f8f9fa;
+	background-color: #f8f9fa;
+	color: #3c4043;
+	font-size: 14px;
+	cursor: pointer;
+	line-height: 36px;
+	height: 36px;
+	min-width: 54px;
+	text-align: center;
+	user-select: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: background-color 0.3s, border 0.3s;
+}
+
+.search-button:hover {
+	background-color: #f8f9fa;
+	border: 1px solid rgba(128, 128, 128, 0.6); /* Grey edges */
+}
+
+.search-button:active {
+	border: 1px solid rgba(66, 133, 244, 0.6); /* Blue edges */
+}
