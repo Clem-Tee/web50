@@ -22,8 +22,18 @@ This project is part of **Harvard's CS50 Web Programming** course. The primary g
 - **"I'm Feeling Lucky" Button**: Redirects users to the top search result for their query.
 - **Responsive Layout**: Optimized for both desktop and mobile viewing.
 
-## 📂 Project Structure
-web50/ ├── projects/ │ └── search/ │ ├── index.html # Google Search Page │ ├── imagesearch.html # Google Image Search Page │ ├── advancedsearch.html # Google Advanced Search Page │ ├── css/ │ └── styles.css # Custom CSS Styling └── README.md # Project Documentation## 📂 Project Structure
+📂 **Project Structure**
+
+```plaintext
+web50/
+└── projects/
+    └── search/
+        ├── index.html            # Google Search Page
+        ├── imagesearch.html      # Google Image Search Page
+        ├── advancedsearch.html   # Google Advanced Search Page
+        ├── css/
+        │   └── styles.css        # Custom CSS Styling
+        └── README.md             # Project Documentation
 
 ## 🎨 Visual Overview
 
