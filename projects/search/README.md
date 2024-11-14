@@ -28,12 +28,13 @@ This project is part of **Harvard's CS50 Web Programming** course. The primary g
 web50/
 └── projects/
     └── search/
-        ├── index.html            # Google Search Page
-        ├── imagesearch.html      # Google Image Search Page
-        ├── advancedsearch.html   # Google Advanced Search Page
+        ├── pages/
+        │   ├── index.html            # Google Search Page
+        │   ├── imagesearch.html      # Google Image Search Page
+        │   ├── advancedsearch.html   # Google Advanced Search Page
         ├── css/
-        │   └── styles.css        # Custom CSS Styling
-        └── README.md             # Project Documentation
+        │   └── styles.css            # Custom CSS Styling
+        └── README.md                 # Project Documentation
 
 
 ## 🎨 Visual Overview
