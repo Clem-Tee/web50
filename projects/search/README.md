@@ -42,16 +42,10 @@ web50/
 ### Clone the repository:
 ```bash
 git clone https://github.com/Clem-Tee/web50.git
-cd web50
-## 🔧 Installation and Setup
-
+cd web50/projects/search
+python3 -m http.server 8000
+```
 **Open `index.html` in your preferred browser:**
-
-- Double-click the `index.html` file, or
-- Open the terminal and use:
-  
-  ```bash
-  open index.html
 
 ## 💻 Usage
 
