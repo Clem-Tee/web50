@@ -36,17 +36,3 @@ web50/
         │   └── styles.css            # Custom CSS Styling
         └── README.md                 # Project Documentation
 
-
-## 🎨 Visual Overview
-
-### Google Search Page
-![Google Search Page Screenshot](projects/search/'Screenshot (18).png')
-
-### Image Search Page
-![Screenshot (19)](projects/search/'Screenshot (19).png')
-
-### Advanced Search Page
-![Screenshot (20)](projects/search/Screenshot (20).png)
-
-
-
