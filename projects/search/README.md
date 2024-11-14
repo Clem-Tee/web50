@@ -40,13 +40,13 @@ web50/
 ## 🎨 Visual Overview
 
 ### Google Search Page
-![Google Search Page Screenshot](projects/search/Screenshot (19).png)
+![Google Search Page Screenshot](projects/search/Screenshot (18).png)
 
 ### Image Search Page
-![Screenshot (19)](https://github.com/user-attachments/assets/0c089222-16c0-41ab-a592-f7a34d68fe9d)
+![Screenshot (19)](projects/search/Screenshot (19).png)
 
 ### Advanced Search Page
-![Screenshot (20)](https://github.com/user-attachments/assets/0a8ef451-3393-4d47-be93-331be7609451)
+![Screenshot (20)](projects/search/Screenshot (20).png)
 
 
 
