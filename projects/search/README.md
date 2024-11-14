@@ -35,6 +35,7 @@ web50/
         ├── css/
         │   └── styles.css            # Custom CSS Styling
         └── README.md                 # Project Documentation
+```
 
 ## 🔧 Installation and Setup
 
