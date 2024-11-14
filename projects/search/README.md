@@ -1,5 +1,5 @@
 
-ogle Search Clone - CS50 Web Programming Project
+Google Search Clone - CS50 Web Programming Project
 
 Welcome to the **Google Search Clone** project! This project replicates Google's search interface, including its image search, advanced search, and unique design features. This README provides an overview, installation steps, features, and demonstrations.
 
