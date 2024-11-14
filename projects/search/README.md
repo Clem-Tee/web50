@@ -36,3 +36,63 @@ web50/
         │   └── styles.css            # Custom CSS Styling
         └── README.md                 # Project Documentation
 
+## 🔧 Installation and Setup
+
+### Clone the repository:
+```bash
+git clone https://github.com/Clem-Tee/web50.git
+cd web50
+## 🔧 Installation and Setup
+
+**Open `index.html` in your preferred browser:**
+
+- Double-click the `index.html` file, or
+- Open the terminal and use:
+  
+  ```bash
+  open index.html
+
+## 💻 Usage
+
+### Running the Search Page
+1. Open `index.html`.
+2. Enter a query into the search bar and click **"Google Search"**.
+3. Use **"I'm Feeling Lucky"** to be redirected to the top result.
+
+### Running the Image Search
+1. Navigate to **Image Search** via the link on the upper-right of the Search Page.
+2. Enter a query and click **Search Images**.
+
+### Running the Advanced Search
+1. Navigate to **Advanced Search** via the link on the upper-right of the Search Page.
+2. Fill out any combination of advanced query fields.
+3. Click **Advanced Search**.
+
+---
+
+## 📝 Project Requirements
+
+The following requirements are met:
+
+- [x] **Three main pages**: Search, Image Search, and Advanced Search.
+- [x] **Custom search forms** with GET parameters compatible with Google Search.
+- [x] **Advanced search form** with multi-field functionality.
+- [x] **Stylized and responsive design** similar to Google’s.
+
+## 🧑‍💻 Developer Notes
+
+This project utilizes basic **HTML forms**, **CSS animations**, and **GET requests**, and is structured to support further development if desired.
+
+> ✨ **Future Enhancements**:
+> - Add JavaScript for dynamic feedback.
+> - Implement CSS transitions for a smoother UI.
+
+---
+
+## 🤝 Connect
+
+For any inquiries, suggestions, or collaboration requests, please contact me at [Clem-Tee GitHub](https://github.com/Clem-Tee).
+
+---
+
+**Enjoy exploring the Google Search Clone Project!**
